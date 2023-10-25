@@ -1,7 +1,7 @@
 import random  
-word_list = ["bananas","apples","grapes","strawberries","melons"]
-word = random.choice(word_list)
-print(word)
+fruits_list = ["bananas","apples","grapes","strawberries","melons"]
+random_fruit= random.choice(fruits_list)
+print("Random Fruit Select:",random_fruit)
 guess = input("Please enter a single letter: ")
 
 if len(guess) == 1 and guess.isalpha():
