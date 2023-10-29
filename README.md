@@ -6,10 +6,12 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 
 Add documentation to your GitHub README file. You can refer to the relevant lesson in the prerequisites for this task for more information.
 At minimum, your README file should contain the following information:
-Milestone_2
-Project Title
-Table of Contents, if the README file is long
+Project Title : Hangman
+Table of Contents : milestone_2, milestone_3, milestone_4, milestone_5
 A description of the project: what it does, the aim of the project, and what you learned
+Milestone_2 : Within the milestone_2 file it will showcase the import of the random module which is one Python's built-in modules. It will have a list of fruits where the users can guess a single letter of the that was pick from the list at random. If the user puts a letter it will reply with a message saying "Good guess!" however, if the users puts a number instead they will a get a message saying "Opp! that is not a valid input".
+Milestone_3: In milestone_3 it will have code which will allow the user input a letter and it vaildate for them, to see if they got the right letter.
+milestone_4 :
 Installation instructions
 Usage instructions
 File structure of the project
