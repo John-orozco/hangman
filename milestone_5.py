@@ -59,9 +59,6 @@ def play_game(word_list):
         else:
             print('Congratulations. You won the game!')
             break
-
-# List of words for the game
+        
 word_list = ["bananas","apples","grapes","strawberries","melons"]
-
-# Play the game with the list of words
 play_game(word_list)
